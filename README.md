@@ -1,2 +1,6 @@
 # Make-Noise-desktop-synth-rack
 3D print models and description of side panels for racking up the Make Noise desktop synths
+
+This is a collection of 3D print models and metal side panels for making a custom rack for Make Noise desktop synthesisers (not their Eurorack modules). These models include brackets for 0-Coast and Strega. Additionally there are brackets for some other electronic instruments that are added to my personal rack like Plankton Electronics Spice. The metal frame for the rack is constructed using aluminium side panels (extruded L 25x25x2mm profiles, commonly used in building construction and decoration) that are fixed to the end brackets using M4 bolts. End brackets are specifically designed for using this type of side panels, however it's possible to design a rack without using side panels, bolting the brackets to any other type of rigid frame of surface using M4 bolts. In that scenario the end brackets will not be used.
+
+No modifications are required for the desktop instruments to fit the rack. They should sit conformably in their brackets. However, it's up to the builder to establish a suitable routing for the DC power cable(s) and barrel plug(s) inside the rack.
